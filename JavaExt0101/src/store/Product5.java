@@ -1,5 +1,5 @@
 package store;
 
-public class Product5 {
+public class Product500 {
 
 }
