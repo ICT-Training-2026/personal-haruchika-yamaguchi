@@ -1,6 +1,6 @@
 package store;
 
-publice class Product2
+public class Product2
 {
 
 }

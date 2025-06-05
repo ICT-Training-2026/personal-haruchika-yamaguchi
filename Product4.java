@@ -1,6 +1,6 @@
-package3 store;
+package store;
 
-publice class Product4
+public class Product4
 {
 
 }
