@@ -1,4 +1,4 @@
-package3 store;
+package store;
 
 public class Product3 
 {
